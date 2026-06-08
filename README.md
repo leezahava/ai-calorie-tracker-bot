@@ -20,7 +20,7 @@ An advanced, asynchronous Telegram bot designed to completely automate personal 
 *   **Resilience & Protection Middlewares:** Implemented customized time-based sliding scale throttle rate limits to protect infrastructure from abuse, and integrated advanced exponential backoff retry policies (`tenacity`) to guarantee system stability against third-party API outages.
 
 
-## 📦 Tech Stack
+##  Tech Stack
 
 *   **Language:** Python 3.10+
 *   **Bot Framework:** `aiogram v3` (Asynchronous Telegram Bots API)
